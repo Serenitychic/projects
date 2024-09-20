@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.51.0",
-    "ethers": "^5.5.4",
+    "@aws-sdk/client-secrets-manager": "^3.654.0",
+    "ethers": "^6.13.2",
     "mongodb": "^4.3.1"
   },
   "type": "module"
